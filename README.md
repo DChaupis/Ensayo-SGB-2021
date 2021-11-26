@@ -1,5 +1,17 @@
-# Ensayo-SGB-2021
-Desarrollo de un estudio piloto acerca del Sindrome Guillain-Barré y relación con la sensibilidad a la ansiedad, como factor psicológico que desencadenaría la enfermedad autoinmune. 
+# La autopercepción del nivel de estrés asociado a la edad de diagnóstico del Síndrome Guillain-Barré, estudio piloto en una población basada en internet de América Latina y El Caribe. 
+
+Autores:
+Investigador Principal: David Chaupis Meza<sup>1</sup>
+
+Asesor:
+Dr. Cesar Munayco<sup>2</sup>
+
+Estudiante<sup>1</sup>
+Asesor<sup>2</sup>
+
+Afiliaciones institucionales:
+[^1]:	Facultad de Salud Pública y Administración, Universidad Peruana Cayetano Heredia.
+[^2]:	Center for Disease Control and Prevention, Peru.
 
 
 
