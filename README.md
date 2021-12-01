@@ -35,9 +35,9 @@
 ## INDICE
 
 - [Resumen](#resumen)
-- [Abstract](#status)
-- [Introducción](#whats-included)
-- [Metodología](#bugs-and-feature-requests)
+- [Abstract](#abstract)
+- [Introducción](#introducción)
+- [Metodología](#metodología)
 - [Resultados](#contributing)
 - [Discusión](#creators)
 - [Conclusiones](#thanks)
