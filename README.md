@@ -6,7 +6,7 @@
   <h3 align="center">Logo</h3>
 
   <p align="center">
-    # La autopercepción del nivel de estrés asociado a la edad de diagnóstico del Síndrome Guillain-Barré, estudio piloto en una población basada en internet de América Latina y     El Caribe. 
+    La autopercepción del nivel de estrés asociado a la edad de diagnóstico del Síndrome Guillain-Barré, estudio piloto en una población basada en internet de América Latina y       El Caribe.
 
     Autores:
 
@@ -17,8 +17,9 @@
 
     Estudiante<sup>1</sup>
     Asesor<sup>2</sup>
+  </p>
 
-    Afiliaciones institucionales:
+  <p Afiliaciones institucionales:
     1.	Facultad de Salud Pública y Administración, Universidad Peruana Cayetano Heredia.
     2.	Center for Disease Control and Prevention, Peru.
     <br>
